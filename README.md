@@ -1,3 +1,6 @@
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonCamacho8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 # 💻 Tech Stack:
 
 ## Version Control, CI/CD and colaborative platforms
@@ -50,5 +53,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramoncs)
 [![LeetCode](https://img.shields.io/badge/LeetCode-gray?style=flat&logo=LeetCode&logoColor=e49218)](https://leetcode.com/u/ramoncamacho8/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonCamacho8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
