@@ -1,6 +1,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonCamacho8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonCamacho8)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamonCamacho8)](https://github.com/anuraghazra/github-readme-stats)
 
 # 💻 Tech Stack:
