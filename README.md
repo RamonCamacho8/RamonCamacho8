@@ -1,3 +1,6 @@
+# About Me
+Innovative and detail-oriented AI Software Developer with a strong foundation in computer science and hands-on experience in building end-to-end machine learning solutions. Skilled in integrating AutoML frameworks, managing large datasets, and deploying scalable AI applications with intuitive user interfaces. Passionate about leveraging artificial intelligence to solve real-world problems through collaborative development, continuous learning, and agile methodologies. Actively seeking opportunities to drive intelligent systems from research to production in high-impact environments.
+
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramoncs)
 [![LeetCode](https://img.shields.io/badge/LeetCode-gray?style=flat&logo=LeetCode&logoColor=e49218)](https://leetcode.com/u/ramoncamacho8/)
